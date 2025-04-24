@@ -310,7 +310,7 @@ const ServicesPage = () => {
                   Perfect for small businesses looking to establish an online presence
                 </p>
                 <div className="mb-4">
-                  <span className="text-4xl font-bold">$1,200</span>
+                  <span className="text-4xl font-bold">$100</span>
                   <span className="text-gray-500 ml-2">starting at</span>
                 </div>
               </div>
@@ -359,7 +359,7 @@ const ServicesPage = () => {
                   Comprehensive solution for growing businesses with more complex needs
                 </p>
                 <div className="mb-4">
-                  <span className="text-4xl font-bold">$2,500</span>
+                  <span className="text-4xl font-bold">$150</span>
                   <span className="text-gray-500 ml-2">starting at</span>
                 </div>
               </div>
@@ -408,7 +408,7 @@ const ServicesPage = () => {
                   Fully customized solutions for online stores or complex web applications
                 </p>
                 <div className="mb-4">
-                  <span className="text-4xl font-bold">$5,000+</span>
+                  <span className="text-4xl font-bold">$200+</span>
                   <span className="text-gray-500 ml-2">starting at</span>
                 </div>
               </div>
