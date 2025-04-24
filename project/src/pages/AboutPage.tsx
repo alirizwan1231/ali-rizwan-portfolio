@@ -1,6 +1,6 @@
 import { CheckCircle, Award, Code, Users, Laptop } from 'lucide-react';
 import SectionHeading from '../components/shared/SectionHeading';
-
+import profileImage from '../profileimage.png';
 const AboutPage = () => {
   const skills = [
     { name: 'WordPress Development', percentage: 95 },
@@ -45,7 +45,7 @@ const AboutPage = () => {
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="lg:w-2/5">
               <img 
-                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src={profileImage} 
                 alt="Ali Rizwan" 
                 className="rounded-lg shadow-xl"
               />
